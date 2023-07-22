@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yohelperez
-- 👀 I’m interested in backend development.
-- 🌱 I’m currently studying Software Engineering at Universidad de Antioquia and learning backend with Java in my free time.
+- 👀 I’m a backend developer.
+- 🌱 I’m currently studying Software Engineering at Universidad de Antioquia.
 - 📫 How to reach me: Find me at perezyohel@gmail.com. and LinkedIn: https://www.linkedin.com/in/yohel-p%C3%A9rez-0b05551a9/
 
 <!---
