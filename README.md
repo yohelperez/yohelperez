@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ```javascript
 const yohel = {
     code: ["Java", "C#", "JavaScript", "HTML", "CSS", "Python"],
-    languages: ["spanish (Native)", "english (Advanced)", "Russian (Basic)" ],
+    languages: ["Spanish (Native)", "English (Advanced)", "Russian (Basic)" ],
     technologies: {
         backend: {
             Java: ["Springboot"],
@@ -23,11 +23,11 @@ const yohel = {
         },
         frontend: {
             JavaScript: ["React", "Angular"],
-            CSS: ["Materialize", "Boostrap"],
+            CSS: ["Materialize", "Tailwind"],
         },
   
         databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        testing: ["Serenity", "SonarCloud", "Unit testing"],
+        testing: ["Serenity", "SonarCloud", "JUnit"],
         tools: ["Intellij", "Visual Studio Code", "Visual Studio", "Eclipse", "Postman", "Git"]
     },
     
